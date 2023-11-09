@@ -1,4 +1,4 @@
-const express = require("express") //the way to import node; this is saying assigning the var express to the node express
+const express = require("express");
 const router = express.Router();
 
 
